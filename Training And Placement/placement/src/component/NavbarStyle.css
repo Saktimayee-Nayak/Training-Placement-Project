@@ -1,0 +1,138 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;1,100;1,200&display=swap');
+
+
+body {
+  background: linear-gradient(180deg, rgba(238, 26, 26, 0.98) 13.8%, rgba(177, 40, 40, 0.906212) 42.83%, rgba(231, 59, 59, 0.9) 52.51%, rgba(187, 64, 64, 0) 100%);
+
+  background-attachment:fixed;
+  background-size: cover; 
+  font-family: 'Poppins', sans-serif;
+ 
+}
+
+
+
+.navbar {
+  background-color:#D9D9D9;
+  ;
+
+}
+
+
+.navbar-brand {
+  font-size: 24px;
+  font-weight: bold;
+  color: #eee4e4; 
+  
+}
+
+
+.navbar-nav .nav-link {
+  color: #fff; 
+  margin-right: 10px; 
+  font-size: 18px; 
+}
+
+
+.navbar-nav .nav-item.active .nav-link {
+  background-color: #fff; 
+  color: #d9384e; 
+}
+
+
+.main-content {
+
+color: #170101; 
+padding: 20px; 
+max-width: 1440px;
+max-height: 185px;
+margin-top: 62px;
+
+
+}
+
+
+.main-content h1 {
+font-style:  Inika;
+font-size: 45px; 
+font-weight: bold; 
+margin-bottom: 10px; 
+
+
+
+
+
+}
+
+
+.main-content p {
+font-size: 18px; 
+font-style: italic; 
+font: Inter;
+padding-right: 0%;
+line-height: 29.05px;
+color:  #000000;
+width: 303px;
+height: 58px;
+top: 147px;
+left: 638px;
+
+
+}
+
+
+
+.navbar-toggler-icon {
+  background-color: #efeded; 
+  text-align: center;
+  
+}
+
+
+.nav-item{
+  padding-top: 20%;
+}
+  
+.logo {
+  max-width: 234px;
+  height: 166;
+  margin: 0 auto;
+  /* Adjust the logo width as needed */
+
+}
+.button {
+  background-color:  #B70E0E;
+  
+  color: #160101;
+  padding: 16px 14px;
+  cursor: pointer;
+  font-style: initial;
+  font-weight: bold;
+  border-radius: 5px;
+  margin-right: 100px;
+  cursor: pointer;
+  display: flex;
+  all: unset;
+  background:white;
+  max-width: 1280px;
+}
+.login-button{
+  background: #D9D9D9;
+
+  color: #160101;
+  font-weight: bold
+
+
+}
+.login-button:hover{
+  color: rgba(221, 220, 227, 0.738);
+}
+.login-button{
+  max-width: 242px;
+max-height: 80px;
+margin-top: 11px;
+margin-left: 1350px;
+}
+
+
